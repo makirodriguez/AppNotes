@@ -9,3 +9,21 @@ En el backend:
 
 En el frontend:
 -en la carpeta pages se encuentran las vista de las tareas y un popUp
+
+Para la ejecucion de la app: 
+Se debe ejecutar en tres terminales distintas
+Para levantar el backend:
+cd backend/
+npm install
+npm start
+
+Para levantar la base de datos:
+cd backend/
+mysql -u root -p
+password: contrasena
+
+Para levantar el frontend:
+cd frontend/
+npm install
+npm start
+
