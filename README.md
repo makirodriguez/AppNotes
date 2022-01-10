@@ -1,4 +1,4 @@
-# Ensolvers
+# Notes
 
 Para el frontend utilice React en la version ^16.8.6
 Para el backend utilice express en la version ^4.17.2, junto con MySQL para la base de datos con version ^2.18.1
